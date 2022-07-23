@@ -1,4 +1,5 @@
 # flutter_1
+![calc_icon](https://user-images.githubusercontent.com/37636715/180599394-1787a1e8-d37d-4fad-b90f-f66732ee8b3d.png)
 
 A new Flutter project.
 
